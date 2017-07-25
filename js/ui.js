@@ -17,7 +17,7 @@ $.fn.uiSearch = function(){
 };
 
 
-//  选项卡切换
+//  选项卡的切换
 
 $.fn.uiTab  = function(tabs,cons,focus_prefix){
 
