@@ -1,4 +1,4 @@
-# Unified-registration-platform
+﻿# Unified-registration-platform
 Unified registration platform
-ͳһ�Һ�ƽ̨
+医院统一挂号平台
 
